@@ -40,4 +40,3 @@ In this series of exercises, we practice various refactoring techniques. You may
 Please submit your work to Gradescope.
 
 - Submit your work for Exercise 12 to 20 at [Refactoring - Simplifying Conditional Expressions](https://www.gradescope.com/courses/206382/assignments/1013900)
-# simplify-conditionals
